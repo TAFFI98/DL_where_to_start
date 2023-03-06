@@ -1,0 +1,3 @@
+data/*
+!data/mnist-data-png.tar.xz
+models/*
